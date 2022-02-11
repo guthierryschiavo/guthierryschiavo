@@ -1,8 +1,8 @@
 ### Oiii! Eu sou o Guthierry Schiavo
-
+##
 - 🔭 Atualmente não estou trabalhando na área, mas em busca de um estágio/trabalho.
 - 🌱 Estou estudando atualmente HTML5 e CSS3
-
+##
 <div align="center">
   <a href="https://github.com/guthierryschiavo">
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=guthierryschiavo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
