@@ -1,5 +1,5 @@
 ### Oiii! Eu sou o Guthierry Schiavo
-##
+
 - 🔭 Atualmente não estou trabalhando na área, mas em busca de um estágio/trabalho.
 - 🌱 Estou estudando atualmente HTML5 e CSS3
 ##
