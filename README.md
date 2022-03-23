@@ -1,7 +1,8 @@
 ### Oiii! Eu sou o Guthierry Schiavo
 
 - 🔭 Oiee, seja muito bem vindo!
-- 🌱 Estou estudando atualmente HTML5 e CSS3
+- 🌱 Conhecimento amplo em HTML5 e CSS3.
+- ☕ Iniciando os estudos com a Linguagem de Programação JavaScript.
 ##
 <div align="center">
   <a href="https://github.com/guthierryschiavo">
